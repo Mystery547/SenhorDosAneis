@@ -36,8 +36,10 @@ html {
 }
 
 #container img {
+    width: 500px;
+    height: 270px;
 
-
+    margin-left: 50px;
 }
 
 #botao button, a{
@@ -49,5 +51,5 @@ html {
     text-decoration: none;
     font-family: "Rye";
 
-    margin-top: 196px;
+    margin-top: 178px;
 }
