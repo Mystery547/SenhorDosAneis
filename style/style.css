@@ -1,6 +1,11 @@
+@font-face{
+    font-family: 'Rye';
+    src: url("/fonts/Rye-Regular.ttf");
+}
+
 html {
     font-size: 20px;
-    font-family: "Rye", cursive;
+    font-family: "Rye";
     background-image: url(https://www.jakpost.travel/wimages/large/123-1239062_o-senhor-dos-anis-comemora-15-anos-e.jpg);
     background-attachment: fixed;
 }
