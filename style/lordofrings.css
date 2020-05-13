@@ -1,0 +1,56 @@
+@font-face {
+    src: url("/fonts/Rye-Regular.ttf");
+    font-family: 'Rye';
+}
+
+html {
+    font-family: 'Rye';
+    font-size: 20px;
+
+    background-image: url(/images/lordofringsImages/Lord-of-the-Rings-one-of-the-ring-close-up_1920x1080.jpg);
+    background-attachment: fixed;
+}
+
+#container {
+    width: 600px;
+    height: 800px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    padding: 0px 10px 0px 10px;
+    border: 5px solid rgb(196, 196, 1);
+
+    background-color: black;
+}
+
+#container h1 {
+    text-align: center;
+    color: white;
+}
+
+#container p {
+    text-indent: 50px;
+    text-align: justify;
+
+    color: white;
+}
+
+#container img {
+    width: 500px;
+    height: 270px;
+
+    margin-left: 50px;
+}
+
+#botao button, a{
+    background-color: rgb(223, 145, 0);
+    color: black;
+    
+    border-radius: 5px;
+
+    text-decoration: none;
+    font-family: "Rye";
+
+    margin-top: 134px;
+}
