@@ -1,5 +1,5 @@
 @font-face {
-    src: url("/fonts/Rye-Regular.ttf");
+    src: url("../fonts/Rye-Regular.ttf");
     font-family: 'Rye';
 }
 
@@ -7,7 +7,7 @@ html {
     font-family: 'Rye';
     font-size: 20px;
 
-    background-image: url(/images/lordofringsImages/Lord-of-the-Rings-one-of-the-ring-close-up_1920x1080.jpg);
+    background-image: url(../images/lordofringsImages/Lord-of-the-Rings-one-of-the-ring-close-up_1920x1080.jpg);
     background-attachment: fixed;
 }
 

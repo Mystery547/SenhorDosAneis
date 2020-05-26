@@ -1,13 +1,13 @@
 @font-face{
     font-family: 'Rye';
-    src: url("/fonts/Rye-Regular.ttf");
+    src: url("../fonts/Rye-Regular.ttf");
 }
 
 html {
     font-size: 20px;
     font-family: 'Rye';
 
-    background-image: url("/images/hobbitImages/twt3.jpg"); 
+    background-image: url("../images/hobbitImages/twt3.jpg"); 
 }
 
 #container {
