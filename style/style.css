@@ -6,8 +6,10 @@
 html {
     font-size: 20px;
     font-family: "Rye";
-    background-image: url(https://www.jakpost.travel/wimages/large/123-1239062_o-senhor-dos-anis-comemora-15-anos-e.jpg);
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/230/886/355/the-lord-of-the-rings-the-shire-hobbits-bag-end-wallpaper-preview.jpg);
     background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
 
 body {
